@@ -1,0 +1,26 @@
+button {
+    margin: 1px;
+    background-color: white;
+    font-size: 24px;
+    color: black;
+    border: 1px solid black;
+    border-radius: 4px;
+}
+
+button:hover{
+    background-color: rgb(146, 177, 146);
+    color: black;
+}
+body{
+	display: block;
+	justify-content: center;
+	background: rgb(217, 202, 202);
+}
+.container{
+    width: 300px;
+    margin: auto;
+    background: rgb(207, 218, 160);
+    display: grid;
+    justify-content: center;
+    content: normal;
+}
